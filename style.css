@@ -1,0 +1,24 @@
+body
+{
+    background-color: #7BEFF7;
+}
+fieldset
+{
+    border: 2px solid black;
+    background-color: white;
+    padding:20px;
+    margin:20px;
+    margin-left: 500px;
+    width:500px;
+    font-size: 30px;
+    box-shadow: 7px 5px #919191;
+}
+
+label,input{display: block;}
+input
+{
+    cursor: help;
+}
+
+
+
